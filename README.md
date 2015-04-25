@@ -11,4 +11,4 @@ But, hey, it works.
 
 How to build & run:
 
-`cabal install random && cabal configure && cabal build && dist/build/Matches/Matches`
+`cabal configure && cabal build && dist/build/Pong/Pong`
