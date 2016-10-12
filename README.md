@@ -6,4 +6,4 @@ Btw, did you know that in the original Atari Ping Pong there was a dead zone at 
 
 How to build & run:
 
-`cabal configure && cabal build && dist/build/Pong/Pong`
+`cabal install random && cabal configure && cabal build && dist/build/Pong/Pong`
